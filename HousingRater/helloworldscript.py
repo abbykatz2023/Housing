@@ -1,3 +1,7 @@
 #!/usr/bin/env python3
-name = input ('what is your name? ')
-print("hello " + name)
+
+def open():
+    print('hi I am open now')
+
+def close():
+    print('I am closed now')
